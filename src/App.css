@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.status-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.board-status {
+  padding: 10px;
+  font-size: 18px;
+}
+
+.connected {
+  color: green;
+  font-weight: bold;
+}
+
+.disconnected {
+  color: red;
+  font-weight: bold;
+}
+
+.sensor-box {
+  background: #f0f0f0;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+.mode-switch {
+  margin-bottom: 20px;
+}
+
+.control-buttons button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.mode-text {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #333;
+}
