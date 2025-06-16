@@ -2,7 +2,7 @@
 
 MQTT 기반으로 **ESP32 Otto 로봇**을 원격 제어하고 센서 데이터를 실시간으로 시각화하는 **React 웹 대시보드**입니다.
 
-![Otto Dashboard Screenshot](./screenshot.png)
+![Otto Dashboard](./screenshot.png)
 
 ---
 
